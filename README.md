@@ -3,6 +3,12 @@ this turns a .mid file into IDE code for an arduino to play with buzzers.
 
 just open with your browser, add the .mid file and press convert.
 copy and paste the code given
+---------------------------------------------------------------------------------------------------
+
+Download instructions:
+
+download the .html file
+open with your browser
 
 ----------------------------------------------------------------------------------------------------
 
